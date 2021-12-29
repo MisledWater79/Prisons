@@ -1,0 +1,7 @@
+name: Prisons
+main: com.misled.prisons.PrisonCore
+version: "1.0.0"
+api: ["1.0.0"]
+author: Misledwater79
+description: "A Plugin for prisons"
+load: STARTUP

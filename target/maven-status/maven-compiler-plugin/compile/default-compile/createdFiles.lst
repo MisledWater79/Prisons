@@ -1,0 +1,6 @@
+com\misled\prisons\events\cowEvents.class
+com\misled\prisons\commands\blockTrail.class
+com\misled\prisons\PrisonCore.class
+com\misled\prisons\commands\worldTp.class
+com\misled\prisons\events\playerEvents.class
+com\misled\prisons\tasks\cowSpawner.class
