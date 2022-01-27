@@ -7,7 +7,7 @@ import cn.nukkit.event.Listener;
 import cn.nukkit.event.entity.EntityDamageByEntityEvent;
 import cn.nukkit.event.entity.EntityDeathEvent;
 
-public class cowEvents implements Listener {
+public class CowEvents implements Listener {
     @EventHandler
     public void onKill(EntityDeathEvent event){
         Entity killed = event.getEntity();

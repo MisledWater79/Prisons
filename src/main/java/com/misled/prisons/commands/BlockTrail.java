@@ -9,9 +9,9 @@ import cn.nukkit.network.protocol.UpdateBlockPacket;
 import cn.nukkit.utils.TextFormat;
 import com.misled.prisons.PrisonCore;
 
-public class blockTrail extends Command {
+public class BlockTrail extends Command {
 
-    public blockTrail(){
+    public BlockTrail(){
         super("bt");
         this.setDescription("Puts a block trail above you");
     }

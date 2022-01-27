@@ -1,6 +1,10 @@
-com\misled\prisons\events\cowEvents.class
-com\misled\prisons\commands\blockTrail.class
+com\misled\prisons\commands\BlockTrail.class
+com\misled\prisons\utils\PluginValues.class
+com\misled\prisons\events\PlayerEvents.class
 com\misled\prisons\PrisonCore.class
-com\misled\prisons\commands\worldTp.class
-com\misled\prisons\events\playerEvents.class
-com\misled\prisons\tasks\cowSpawner.class
+com\misled\prisons\tasks\CowSpawner.class
+com\misled\prisons\commands\SpawnerEnable.class
+com\misled\prisons\commands\WarpCommand.class
+com\misled\prisons\tasks\EntityKiller.class
+com\misled\prisons\events\CowEvents.class
+com\misled\prisons\tasks\WorldUnLoader.class
