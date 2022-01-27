@@ -1,6 +1,10 @@
-C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\commands\blockTrail.java
-C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\events\playerEvents.java
-C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\tasks\cowSpawner.java
-C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\events\cowEvents.java
-C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\commands\worldTp.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\tasks\WorldUnLoader.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\commands\BlockTrail.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\commands\SpawnerEnable.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\events\PlayerEvents.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\commands\WarpCommand.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\tasks\CowSpawner.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\events\CowEvents.java
 C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\PrisonCore.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\tasks\EntityKiller.java
+C:\Users\daria\IdeaProjects\Prisons\src\main\java\com\misled\prisons\utils\PluginValues.java
