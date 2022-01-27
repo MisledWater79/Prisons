@@ -1,7 +1,6 @@
 package com.misled.prisons.utils;
 
 import cn.nukkit.level.Level;
-import cn.nukkit.level.Location;
 import cn.nukkit.math.Vector3;
 import com.misled.prisons.PrisonCore;
 

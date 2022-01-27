@@ -6,7 +6,6 @@ import cn.nukkit.plugin.PluginManager;
 import cn.nukkit.scheduler.ServerScheduler;
 import cn.nukkit.utils.TextFormat;
 import com.misled.prisons.commands.SpawnerEnable;
-import com.misled.prisons.commands.BlockTrail;
 import com.misled.prisons.commands.WarpCommand;
 import com.misled.prisons.events.CowEvents;
 import com.misled.prisons.events.PlayerEvents;
@@ -42,7 +41,6 @@ public class PrisonCore extends PluginBase {
 
     public void registerCommands(){
         SimpleCommandMap cM = this.getServer().getCommandMap();
-        cM.register("bt",new BlockTrail());
         cM.register("warp",new WarpCommand());
         cM.register("spawnerEnable",new SpawnerEnable());
     }
