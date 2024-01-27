@@ -20,7 +20,7 @@ public class WarpCommand extends Command {
         commandParameters.put("default",new CommandParameter[]{
                 CommandParameter.newType("place", CommandParamType.STRING)
         });
-        commandParameters.put("byStrring",new CommandParameter[]{
+        commandParameters.put("byString",new CommandParameter[]{
                 CommandParameter.newEnum("place",new String[]{"ward-a","ward-b","ward-c","ward-d","hub"})
         });
     }
